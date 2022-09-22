@@ -7,6 +7,8 @@
     <title>Hello World</title>
 </head>
 <body>
-    <?php echo "<p>Hello World</p>"; ?>
+    <h1>
+    <?php echo "<p>Olá pessoal, esse é um teste do Desafio DevOps!</p>"; ?>
+    </h1>    
 </body>
 </html>
