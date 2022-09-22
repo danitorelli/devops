@@ -11,7 +11,7 @@
     <?php echo "<p>Olá pessoal, esse é um teste do Desafio DevOps!</p>"; ?>
     </h1>   
     <h2>
-    <?php echo "<p> teste teste teste</p>"; ?>
+    <?php echo "<p> teste teste teste teste + 1</p>"; ?>
     </h2> 
 </body>
 </html>
