@@ -9,6 +9,9 @@
 <body>
     <h1>
     <?php echo "<p>Olá pessoal, esse é um teste do Desafio DevOps!</p>"; ?>
-    </h1>    
+    </h1>   
+    <h2>
+    <?php echo "<p> teste teste teste</p>"; ?>
+    </h2> 
 </body>
 </html>
