@@ -10,11 +10,8 @@
     <h1>
     <?php echo "<p>Olá pessoal, esse é um teste do Desafio DevOps!</p>"; ?>
     </h1>   
-    <h2>
-    <?php echo "<p> Obrigada meu Deus por estar sempre me ajudando!</p>"; ?>
-    </h2> 
-    <h2>
-    <?php echo "<p> Agora falta só uma parte </p>"; ?>
-    </h2>
+    <h3>
+    <?php echo "<p>Sou muito grata a Deus e a vocês por terem me dado essa oportunidade de fazer esse desafio. Dei o meu melhor e aprendi muito aqui! Muito obrigada!!!</p>"; ?>
+    </h3> 
 </body>
 </html>
