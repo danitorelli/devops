@@ -31,8 +31,8 @@ jobs:
       with:
         aws_access_key: ${{ secrets.AWS_ACCESS_KEY_ID }}
         aws_secret_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        application_name: desafio-devops
-        environment_name: desafio-devops-dev
+        application_name: terraform-danit
+        environment_name: terraform-danit
         version_label: ${{ github.run_id }}
         region: us-east-1
         deployment_package: deploy.zip
