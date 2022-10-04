@@ -15,13 +15,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Build the Docker image
-      run: docker build . --file Dockerfile --tag my-image-name:$(date +%s)
-      
-    
-    #- name: Zip package
-      #run: |
-        #cd ${{ github.workspace }}/out
-        #zip -r ${{github.workspace }}/out.zip *
+      run: docker build . --file Dockerfile --tag devops-elasticbeanstalk:latest
         
     - name: Generate deployment package
       run: zip -r deploy.zip . -x '*.git*'
