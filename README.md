@@ -10,7 +10,7 @@ Dentro da pasta **_[workflows](https://github.com/danitorelli/devops-elasticbean
 
 
 ### Deixarei o link da minha aplicação que já é possível de ser acessada: 
-**_[Site Hello World](http://terraform-danit.eba-cpm5spqi.us-east-1.elasticbeanstalk.com/)_**
+**_[Site Hello World](http://terraform.eba-cy32hp8w.us-east-1.elasticbeanstalk.com/)_**
 
 ---
 
